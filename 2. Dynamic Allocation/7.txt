@@ -1,0 +1,11 @@
+Dynamic memory allocation
+
+In CPP, dynamic memory allocation is done using ______________ operator.
+
+Options
+This problem has only one correct answer
+calloc()
+malloc()
+allocate
+new
+Hurray! Correct Answer

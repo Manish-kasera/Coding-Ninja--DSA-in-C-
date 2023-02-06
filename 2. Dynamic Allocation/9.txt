@@ -1,0 +1,11 @@
+Create array
+
+Correct statement for creating an integer array of size 5, dynamically -
+
+Options
+This problem has only one correct answer
+int *arr[] = new int[5];
+int *arr = new int[5];
+int arr = new int[5];
+int *arr[5] = new int;
+Hurray! Correct Answer

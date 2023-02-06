@@ -1,0 +1,11 @@
+void pointer
+
+Void pointer can point to which type of objects ?
+
+Options
+This problem has only one correct answer
+int
+double
+float
+All
+Hurray! Correct Answer

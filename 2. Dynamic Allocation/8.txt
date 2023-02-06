@@ -1,0 +1,16 @@
+Deallocate memory
+
+How will you free the memory allocated by following program -
+#include <iostream>
+using namespace std;    
+
+int main() {
+    int *a = new int;
+}
+
+This problem has only one correct answer
+free a;
+delete *a;
+delete a;
+new a;
+Hurray! Correct Answer

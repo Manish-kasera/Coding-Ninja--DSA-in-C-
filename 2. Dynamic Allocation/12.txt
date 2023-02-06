@@ -1,0 +1,10 @@
+2D arrays
+
+How to Dynamically create a Two Dimensional Array in C++?
+
+Options
+This problem has only one correct answer
+int *twoDArray = new int[10][10];
+int **twoDArray = new int*[10];(Tick)
+int **twoDArray = new int[10][10];
+The solution to this problem has been viewed

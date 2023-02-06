@@ -1,0 +1,11 @@
+Delete memory
+
+On deleting a dynamic memory, if the pointer value is not modified, then the pointer points to?
+
+
+This problem has only one correct answer
+NULL
+Other dynamically allocated memory
+The same deleted memory location
+It points back to location it was initialized with
+Hurray! Correct Answer

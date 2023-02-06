@@ -1,0 +1,25 @@
+What is the output
+
+What is the output of the following program ?
+#include<iostream>
+using namespace std;
+
+int getValue(int x = 0, int y = 0, int z){  
+    return (x + y + z); 
+}
+
+int main(){
+   cout << getValue(10);
+   return 0;
+}
+
+
+Options
+This problem has only one correct answer
+10
+0
+20
+Compilation Error
+Hurray! Correct Answer
+Solution Description
+Default parameters must be added last in C++ functions

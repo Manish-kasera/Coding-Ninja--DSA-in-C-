@@ -1,0 +1,22 @@
+What is the output
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int p = 5;
+    int const *q = &p;
+    p++;
+    cout << p << endl;
+    return 0;
+}
+
+
+This problem has only one correct answer
+Error
+5
+6
+None
+Hurray! Correct Answer
+Solution Description
+Value of p can be increased or decreased as it is not a const value.
