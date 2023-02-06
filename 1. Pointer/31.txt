@@ -1,0 +1,21 @@
+Pointers Output
+
+What will be the output ?
+void increment(int **p){
+  (**p)++;
+}
+
+int main(){
+ int num = 10;
+ int *ptr = &num;
+ increment(&ptr);
+ cout << num << endl;
+}
+
+Options
+This problem may have one or more correct answers
+10
+11 
+Error
+None of these
+Hurray! Correct Answer

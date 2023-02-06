@@ -1,0 +1,13 @@
+What is the output
+
+Assume integer takes 4 bytes and integer pointer 8 bytes.
+int a[5];
+int *c;
+cout << sizeof(a) << “ “ << sizeof(c);
+
+This problem has only one correct answer
+8 8
+5 8
+20 8
+20 4
+Hurray! Correct Answer

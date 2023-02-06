@@ -1,0 +1,10 @@
+Address of Variable
+
+Which of the following gives the memory address of integer variable a ?
+
+Options
+This problem may have one or more correct answers
+*a;
+a;
+&a; 
+address(a);

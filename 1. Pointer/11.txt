@@ -1,0 +1,12 @@
+What is the output
+
+int a = 7;
+int *c = &a;
+c = c + 1;
+cout  << a << "  " << *c << endl;
+
+This problem has only one correct answer
+Garbage_value 7
+7 Garbage_value
+8 8
+7 7

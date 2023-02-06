@@ -1,0 +1,28 @@
+Pointers Output
+Send Feedback
+int f(int x, int *py, int **ppz) {
+    int y, z;
+    **ppz += 1;
+    z = **ppz;
+    *py += 2;
+    y = *py;
+    x += 3;
+    return x + y + z;
+}
+
+int main() {
+    int c, *b, **a;
+    c = 4;
+    b = &c;
+    a = &b;
+    cout << f(c, b, a);
+    return 0;
+}
+
+Options
+This problem may have one or more correct answers
+21
+18
+19 
+24
+Hurray! Correct Answer

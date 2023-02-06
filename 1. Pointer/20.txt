@@ -1,0 +1,13 @@
+What is the output
+
+int a[] = {1, 2, 3, 4};
+int *p = a++;
+cout << *p << endl;
+
+Options
+This problem has only one correct answer
+1
+2
+Garbage value
+Error
+Hurray! Correct Answer

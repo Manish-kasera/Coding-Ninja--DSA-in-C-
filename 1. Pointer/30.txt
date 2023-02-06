@@ -1,0 +1,16 @@
+Pointers Output
+
+What will be the output ?
+  int a = 100;
+  int *p = &a;
+  int **q = &p;
+  int b = (**q)++;
+  int *r = *q;
+  (*r)++;
+  cout << a << " " << b << endl;
+
+This problem may have one or more correct answers
+102 100 
+101 100
+101 101
+102 101

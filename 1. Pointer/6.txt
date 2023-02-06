@@ -1,0 +1,15 @@
+What will be the output ?
+
+ int a = 50;
+ int *ptr = &a;
+ int *q = ptr;
+ (*q)++;
+ cout << a  << endl;
+
+
+Options
+This problem may have one or more correct answers
+50
+51 
+Error
+None of these 

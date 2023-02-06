@@ -1,0 +1,14 @@
+Pointers Output
+
+What will be the output ?
+ char ch = 'a';
+ char* ptr = &ch;
+ ch++;
+ cout << *ptr << endl;
+
+Options
+This problem may have one or more correct answers
+a
+b 
+97
+98 

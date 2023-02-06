@@ -1,0 +1,19 @@
+What will be the output ?
+
+int a = 10;
+int *p = &a;
+int **q = &p;
+int b = 20;
+*q = &b;
+(*p)++;
+cout << a << " " << b << endl;
+
+Options
+This problem may have one or more correct answers
+10 21 
+11 20
+11 21
+10 20
+Hurray! Correct Answer
+Solution Description
+p points to a. q points to p directly and a through p (double pointer). *q — value stored in p is changed to address of b instead of that of a. (*p)++ — value that p points to, which now is of b, is incremented by 1 (b becomes 21). Value of a remains unchanged.

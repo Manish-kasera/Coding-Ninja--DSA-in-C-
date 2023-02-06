@@ -1,0 +1,21 @@
+Pointers Output
+
+What will be the output ?
+void square(int *p){
+ int a = 10;
+ p = &a;
+ *p = (*p) * (*p);
+}
+
+int main(){
+ int a = 10;
+ square(&a);
+ cout << a << endl;
+}
+
+Options
+This problem may have one or more correct answers
+100
+10 
+Error
+None of these
