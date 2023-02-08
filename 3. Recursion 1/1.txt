@@ -1,0 +1,27 @@
+Missing Base case
+
+What will be the output of the following code ?
+#include <iostream>
+using namespace std;
+
+int func(int num){
+    return func(num- 1);
+}
+
+int main() {
+    int num = 5;
+    int ans = func(num - 1);
+    cout << ans;
+}
+
+Options
+
+This problem has only one correct answer
+Compilation Error
+Runtime Error
+5
+None of these
+Hurray! Correct Answer
+
+Solution Description
+Since the base case is missing in the code, therefore there will be infinite recursion calls and hence runtime error will occur.
