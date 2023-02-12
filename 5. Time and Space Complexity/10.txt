@@ -1,0 +1,10 @@
+Operations for merging
+
+For merging two sorted arrays of size m and n into a sorted array of size m+n, we require operations -
+
+Options
+This problem has only one correct answer
+O(m * n)
+O(m + n)
+O(m) if m >= n
+O(n) if n > m

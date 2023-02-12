@@ -1,0 +1,10 @@
+Merge Sort space
+
+The space complexity for merge sort is :
+
+Options
+This problem has only one correct answer
+O(n)
+O(n^2)
+O(nlogn)
+O(log n)

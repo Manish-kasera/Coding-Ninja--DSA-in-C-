@@ -1,0 +1,9 @@
+Efficiency of an Algorithm
+
+Two main measures for the efficiency of an algorithm are -
+
+This problem may have one or more correct answers
+Processor and memory
+Complexity and capacity
+Time and space 
+Data and space

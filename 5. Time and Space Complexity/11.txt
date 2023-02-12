@@ -1,0 +1,8 @@
+Worst Case Time complexity of Binary Search
+
+Worst case time complexity of Binary Search is ?
+This problem has only one correct answer
+O(N)
+O(N^2)
+O(NLogN)
+O(LogN)

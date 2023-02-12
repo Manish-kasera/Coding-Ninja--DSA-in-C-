@@ -1,0 +1,10 @@
+Recurrence for Merge Sort
+
+What is the recurrence relation for merge sort :
+
+Options
+This problem has only one correct answer
+T(n) = 2T(n/2)
+T(n) = 2T(n/2) + k
+T(n) = 2T(n/2) + O(n)
+T(n) = 2T(n/2) + O(log n)
