@@ -1,0 +1,10 @@
+Traversal in LL
+
+In doubly linked lists, traversal can be done in ?
+
+Options
+This problem has only one correct answer
+Only forward direction
+Only reverse direction
+Both directions
+None of the above
