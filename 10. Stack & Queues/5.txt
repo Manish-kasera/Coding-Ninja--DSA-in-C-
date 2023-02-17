@@ -1,0 +1,10 @@
+Correct Order
+
+If the elements “p”, “q”, “r” and “s” are placed in a stack and are deleted one at a time, in what order will they be removed?
+
+Options
+This problem has only one correct answer
+srqp
+pqrs
+srpq
+qrsp

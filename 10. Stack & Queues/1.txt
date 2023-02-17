@@ -1,0 +1,10 @@
+Stack
+
+A stack is a ?
+
+Options
+This problem has only one correct answer
+FIFO (First In First Out) list
+LIFO (Last In First Out) list.
+Ordered array
+Linear tree
